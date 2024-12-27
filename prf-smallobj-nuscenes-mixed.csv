@@ -1,0 +1,16 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Search Query,Search Method
+17,39,64,1,9,8,21,11,9,5,4,0,0,1,0,0,0,0,0,0,1,0,0,0,Text Query:['adult'] Negation Query:['traffic cone'],Post Retrieval Filteration
+3,21,7,1,9,2,4,6,4,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,Text Query:['truck'] Negation Query:['car'],Post Retrieval Filteration
+4,36,30,1,4,8,14,4,16,4,2,1,1,2,3,0,1,0,1,1,0,0,0,0,Text Query:['bicycle'] Negation Query:['motorcycle'],Post Retrieval Filteration
+7,15,60,1,8,2,4,5,2,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,Text Query:['construction'] Negation Query:['construction worker'],Post Retrieval Filteration
+1,22,43,1,1,1,5,1,27,0,0,0,6,0,73,0,0,0,0,0,0,0,0,0,Text Query:['bicycle rack'] Negation Query:['trailer'],Post Retrieval Filteration
+2,17,24,2,2,1,6,3,25,1,1,0,2,0,4,0,0,0,0,0,0,0,0,0,Text Query:['child'] Negation Query:['police officer'],Post Retrieval Filteration
+18,31,36,1,2,2,13,9,2,5,6,0,1,1,1,0,1,0,0,0,2,0,0,0,Text Query:['animal'] Negation Query:['stroller'],Post Retrieval Filteration
+24,37,13,5,10,0,3,8,17,9,6,0,0,1,4,0,1,0,0,0,0,0,0,0,Text Query:['ambulance'] Negation Query:['police car'],Post Retrieval Filteration
+24,50,88,5,7,7,32,18,13,2,3,0,0,1,1,0,0,0,0,1,0,0,0,0,Text Query:['car'] Negation Query:['adult'],Post Retrieval Filteration
+46,41,45,12,34,6,11,11,16,67,11,0,0,6,2,0,0,0,0,0,0,0,0,0,Text Query:['construction worker'] Negation Query:['truck'],Post Retrieval Filteration
+34,30,86,0,14,13,63,2,0,2,2,8,0,1,0,5,2,0,0,0,0,17,0,0,Text Query:['police officer'] Negation Query:['bicycle'],Post Retrieval Filteration
+87,37,57,5,44,8,30,19,9,21,21,2,0,8,0,1,1,0,0,0,0,0,0,0,Text Query:['traffic cone'] Negation Query:['child'],Post Retrieval Filteration
+22,50,68,1,5,10,24,5,2,0,0,1,1,1,1,1,8,0,0,5,1,1,0,0,Text Query:['stroller'] Negation Query:['bicycle rack'],Post Retrieval Filteration
+19,51,67,2,13,4,20,86,5,4,5,1,0,1,1,0,1,0,0,0,0,0,0,0,Text Query:['motorcycle'] Negation Query:['animal'],Post Retrieval Filteration
+2,6,23,0,3,1,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Text Query:['police car'] Negation Query:['construction'],Post Retrieval Filteration

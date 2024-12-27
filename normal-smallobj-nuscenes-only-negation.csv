@@ -1,0 +1,17 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Negated Search Query,Search Method
+89,36,47,4,30,3,27,19,4,19,15,1,0,4,0,0,0,0,0,0,0,0,0,0,Text: no traffic cone Negation: N,Normal Search
+15,52,83,5,10,5,26,24,3,6,4,2,0,4,2,0,1,1,0,0,0,0,0,0,Text: no adult Negation: N,Normal Search
+12,53,78,6,10,12,22,11,35,4,3,0,1,0,0,0,3,0,0,1,0,0,0,0,Text: no car Negation: N,Normal Search
+23,35,64,5,17,3,71,7,8,14,13,10,0,4,3,1,1,0,0,0,0,0,0,0,Text: no truck Negation: N,Normal Search
+17,28,44,3,15,8,16,83,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Text: no motorcycle Negation: N,Normal Search
+12,36,55,9,11,2,13,11,80,4,6,0,0,0,3,0,1,0,0,1,0,0,0,0,Text: no bicycle Negation: N,Normal Search
+56,36,52,6,70,8,29,15,10,79,40,5,0,8,0,0,0,0,0,0,0,0,0,0,Text: no construction worker Negation: N,Normal Search
+42,43,57,4,28,4,28,11,11,14,16,1,2,4,1,0,0,0,0,0,0,0,0,0,Text: no construction Negation: N,Normal Search
+29,33,63,5,10,8,58,4,4,1,7,69,0,1,6,0,1,0,0,0,1,0,0,0,Text: no trailer Negation: N,Normal Search
+10,42,58,1,0,1,17,12,44,0,2,1,2,0,39,0,1,0,0,0,0,1,0,0,Text: no bicycle rack Negation: N,Normal Search
+26,59,70,2,13,9,29,11,7,6,3,2,1,1,6,11,0,1,0,0,0,20,0,0,Text: no police officer Negation: N,Normal Search
+19,52,64,6,8,7,32,13,11,5,5,2,0,1,1,1,5,0,0,0,0,0,0,0,Text: no child Negation: N,Normal Search
+12,65,57,7,10,11,23,7,8,4,3,2,3,0,0,0,7,0,0,41,1,0,0,0,Text: no stroller Negation: N,Normal Search
+18,39,77,0,14,13,20,13,4,7,6,0,0,5,0,0,0,0,0,0,0,0,0,0,Text: no animal Negation: N,Normal Search
+23,47,84,0,20,12,26,4,10,2,3,2,1,2,9,4,2,4,0,0,0,35,0,0,Text: no police car Negation: N,Normal Search
+25,41,69,9,7,8,39,10,11,3,2,4,2,1,3,1,0,1,0,0,0,0,0,1,Text: no ambulance Negation: N,Normal Search
